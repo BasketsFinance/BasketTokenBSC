@@ -1,1 +1,1 @@
-"# BasketTokenBSC" 
+BASKET token for Binance Smart Chain
